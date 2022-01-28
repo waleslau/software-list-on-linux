@@ -43,7 +43,6 @@ My usual software
 | ---------------------- | --------------------------------------------------------------- |
 | cockpit                | Web Console for Linux servers                                   |
 | neofetch               | CLI system information tool written in BASH                     |
-| catfish                | Versatile File Searching Tool                                   |
 | filelight              | Graphical disk usage viewer                                     |
 | baobab                 | Disk Usage Analyzer for Gnome                                   |
 | btop                   | beautiful top！                                                 |
@@ -60,18 +59,17 @@ My usual software
 | simplescreenrecorder | A feature-rich screen recorder     |
 | obs-studio           | A recording/broadcasting program   |
 | krita                | Digital Painting Application       |
-| flameshot            | Screenshot software                |
+| flameshot            | 火焰截图                           |
 
 ## 影音
 
 | 名称                | 介绍                                                                 |
 | ------------------- | -------------------------------------------------------------------- |
-| audacious           | Audio player with graphical UI and library functionality             |
-| clementine          | A music player inspired by Amarok 1.4                                |
-| deadbeef            | GTK+ audio player                                                    |
+| clementine          | 本地音乐播放器，好用！                                               |
+| audacious           | 本地音乐播放器，也挺好用                                             |
+| deadbeef            | 本地音乐播放器，界面很简洁，也不错                                   |
 | lx-music-desktop    | [免费的在线音乐播放器](https://github.com/lyswhut/lx-music-desktop/) |
-| netease-cloud-music | Netease cloud music installer                                        |
-| mpv                 | Advanced general-purpose multimedia player                           |
+| netease-cloud-music | 网易云音乐 Linux 版                                                  |
 | dragonplayer        | Multimedia Player                                                    |
 
 ## KDE
