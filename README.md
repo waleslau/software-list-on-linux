@@ -12,19 +12,20 @@ My usual software
 
 ## 常用软件
 
-| 名称                  | 介绍                                                                                   |
-| --------------------- | -------------------------------------------------------------------------------------- |
-| icalingua             | [QQ 第三方客户端](https://github.com/Icalingua/Icalingua/)                             |
-| typora                | A markdown text editor                                                                 |
-| zotero                | Tool to help collect, organize, cite, and share research source                        |
-| calibre               | EBook Management Application                                                           |
-| xreader               | Document viewer for documents like PDF/PostScript                                      |
-| crow-translate        | A Qt GUI for Google, Yandex and Bing translators                                       |
-| Qv2ray                | Unleash Your V2Ray                                                                     |
-| v2rayA                | [一个支持全局透明代理的 V2Ray Linux 客户端](https://github.com/v2rayA/v2rayA/releases) |
-| cheese                | Webcam Booth for GNOME                                                                 |
-| JetBrains Toolbox App | [Manage your IDEs the easy way](https://www.jetbrains.com/zh-cn/toolbox-app/)          |
-| brasero               | CD/DVD burning application for GNOME                                                   |
+| 名称                   | 介绍                                                                                   |
+| ---------------------- | -------------------------------------------------------------------------------------- |
+| icalingua              | [QQ 第三方客户端](https://github.com/Icalingua/Icalingua/)                             |
+| typora                 | A markdown text editor                                                                 |
+| zotero                 | Tool to help collect, organize, cite, and share research source                        |
+| calibre                | EBook Management Application                                                           |
+| xreader                | Document viewer for documents like PDF/PostScript                                      |
+| crow-translate         | A Qt GUI for Google, Yandex and Bing translators                                       |
+| Qv2ray                 | Unleash Your V2Ray                                                                     |
+| v2rayA                 | [一个支持全局透明代理的 V2Ray Linux 客户端](https://github.com/v2rayA/v2rayA/releases) |
+| cheese                 | Webcam Booth for GNOME                                                                 |
+| JetBrains Toolbox App  | [Manage your IDEs the easy way](https://www.jetbrains.com/zh-cn/toolbox-app/)          |
+| brasero                | CD/DVD burning application for GNOME                                                   |
+| gns3-gui & gns3-server | A graphical network simulator                                                          |
 
 ## 远程同步/下载工具
 
@@ -39,16 +40,15 @@ My usual software
 
 ## 系统管理
 
-| 名称                   | 介绍                                                            |
-| ---------------------- | --------------------------------------------------------------- |
-| cockpit                | Web Console for Linux servers                                   |
-| neofetch               | CLI system information tool written in BASH                     |
-| filelight              | Graphical disk usage viewer                                     |
-| baobab                 | Disk Usage Analyzer for Gnome                                   |
-| btop                   | beautiful top！                                                 |
-| wireshark              | A Network Traffic Analyser                                      |
-| gns3-gui & gns3-server | A graphical network simulator                                   |
-| frp                    | [反向代理工具，常用于内网穿透](https://github.com/fatedier/frp) |
+| 名称      | 介绍                                                            |
+| --------- | --------------------------------------------------------------- |
+| cockpit   | Web Console for Linux servers                                   |
+| neofetch  | CLI system information tool written in BASH                     |
+| filelight | Graphical disk usage viewer                                     |
+| baobab    | Disk Usage Analyzer for Gnome                                   |
+| btop      | beautiful top！                                                 |
+| wireshark | A Network Traffic Analyser                                      |
+| frp       | [反向代理工具，常用于内网穿透](https://github.com/fatedier/frp) |
 
 ## 视频剪辑/图片编辑
 
@@ -92,6 +92,12 @@ My usual software
 | ------------ | --------------------- |
 | supertuxkart | A 3D kart racing game |
 | kmines       | 类扫雷游戏 by KDE     |
+
+## 其他
+
+| 名称     | 介绍                               |
+| -------- | ---------------------------------- |
+| kalgebra | Math Expression Solver and Plotter |
 
 ## 浏览器插件
 
