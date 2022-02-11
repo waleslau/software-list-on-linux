@@ -9,6 +9,8 @@ My usual software
 > - <https://mirrors.nju.edu.cn/github-release/>
 >
 >   ...
+>
+> 另：[软件源与镜像源 - Linux 银河漫游指南](https://linuxhitchhiker.github.io/THGLG/advanced/re-entry/repo-and-mirror/#%E9%95%9C%E5%83%8F%E7%AB%99%E5%88%97%E8%A1%A8)
 
 ## 启动盘制作工具
 
