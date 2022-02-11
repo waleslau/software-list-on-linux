@@ -2,19 +2,29 @@
 
 My usual software
 
+> 镜像了一些常用软件的镜像站
+>
+> - <https://mirrors.tuna.tsinghua.edu.cn/github-release/>
+> - <https://mirrors.sdu.edu.cn/software/>
+> - <https://mirrors.nju.edu.cn/github-release/>
+>
+>   ...
+
 ## 启动盘制作工具
 
-| 名称         | 链接                                                                                     |
-| ------------ | ---------------------------------------------------------------------------------------- |
-| Ventoy       | - <https://www.ventoy.net/> </br> - <https://github.com/ventoy/Ventoy/releases>          |
-| Rufus        | - <https://rufus.ie/> </br> - <https://github.com/pbatard/rufus/releases>                |
-| balenaEtcher | - <https://www.balena.io/etcher/> </br> - <https://github.com/balena-io/etcher/releases> |
+| 名称         | 链接                            |
+| ------------ | ------------------------------- |
+| Ventoy       | <https://www.ventoy.net/>       |
+| Rufus        | <https://rufus.ie/>             |
+| balenaEtcher | <https://www.balena.io/etcher/> |
+
+_如果你的网络下载这几个工具有困难，可以试试最上面那几个镜像站_
 
 ## 常用软件
 
 | 名称                   | 介绍                                                                                   |
 | ---------------------- | -------------------------------------------------------------------------------------- |
-| icalingua              | [QQ 第三方客户端](https://github.com/Icalingua/Icalingua/)                             |
+| ~~icalingua~~          | ~~QQ 第三方客户端~~ 已删库                                                             |
 | typora                 | A markdown text editor                                                                 |
 | zotero                 | Tool to help collect, organize, cite, and share research source                        |
 | calibre                | EBook Management Application                                                           |
