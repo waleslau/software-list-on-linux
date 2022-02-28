@@ -26,7 +26,7 @@ _如果你的网络下载这几个工具有困难，可以试试最上面那几�
 
 | 名称                   | 介绍                                                                                   |
 | ---------------------- | -------------------------------------------------------------------------------------- |
-| ~~icalingua~~          | ~~QQ 第三方客户端~~ 已删库                                                             |
+| icalingua              | [QQ 第三方客户端](https://github.com/Icalingua-plus-plus/Icalingua-plus-plus)          |
 | typora                 | A markdown text editor                                                                 |
 | zotero                 | Tool to help collect, organize, cite, and share research source                        |
 | calibre                | EBook Management Application                                                           |
