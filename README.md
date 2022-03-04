@@ -43,12 +43,12 @@ _如果你的网络下载这几个工具有困难，可以试试最上面那几�
 
 | 名称                         | 介绍                                       |
 | ---------------------------- | ------------------------------------------ |
-| grsync                       | rsync 的图形界面                           |
 | syncthing                    | Continuous File Synchronisation            |
 | FreeFileSync                 | synchronize files and folders              |
 | qBittorrent-Enhanced-Edition | A BitTorrent client in Qt                  |
 | rclone                       | Rsync for cloud storage                    |
 | 阿里云盘小白羊版             | <https://github.com/liupan1890/aliyunpan/> |
+| rsync                        | 可以用来代替cp，linux系文件系统下表现超强  |
 
 ## 系统管理
 
