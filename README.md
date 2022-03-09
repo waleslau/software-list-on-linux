@@ -1,6 +1,6 @@
-# software-list
+# software-list-on-linux
 
-My usual software
+My usual software on linux
 
 > 镜像了一些常用软件的镜像站
 >
@@ -24,43 +24,50 @@ _如果你的网络下载这几个工具有困难，可以试试最上面那几�
 
 ## 常用软件
 
-| 名称                   | 介绍                                                                                   |
-| ---------------------- | -------------------------------------------------------------------------------------- |
-| icalingua              | [QQ 第三方客户端](https://github.com/Icalingua-plus-plus/Icalingua-plus-plus)          |
-| typora                 | A markdown text editor                                                                 |
-| zotero                 | Tool to help collect, organize, cite, and share research source                        |
-| calibre                | EBook Management Application                                                           |
-| xreader                | Document viewer for documents like PDF/PostScript                                      |
-| crow-translate         | A Qt GUI for Google, Yandex and Bing translators                                       |
-| Qv2ray                 | Unleash Your V2Ray                                                                     |
-| v2rayA                 | [一个支持全局透明代理的 V2Ray Linux 客户端](https://github.com/v2rayA/v2rayA/releases) |
-| cheese                 | Webcam Booth for GNOME                                                                 |
-| JetBrains Toolbox App  | [Manage your IDEs the easy way](https://www.jetbrains.com/zh-cn/toolbox-app/)          |
-| brasero                | CD/DVD burning application for GNOME                                                   |
-| gns3-gui & gns3-server | A graphical network simulator                                                          |
+| 名称                   | 介绍                                                                          |
+| ---------------------- | ----------------------------------------------------------------------------- |
+| icalingua              | [QQ 第三方客户端](https://github.com/Icalingua-plus-plus/Icalingua-plus-plus) |
+| typora                 | A markdown text editor                                                        |
+| zotero                 | Tool to help collect, organize, cite, and share research source               |
+| calibre                | EBook Management Application                                                  |
+| xreader                | Document viewer for documents like PDF/PostScript                             |
+| crow-translate         | A Qt GUI for Google, Yandex and Bing translators                              |
+| Qv2ray                 | Unleash Your V2Ray                                                            |
+| JetBrains Toolbox App  | [Manage your IDEs the easy way](https://www.jetbrains.com/zh-cn/toolbox-app/) |
+| brasero                | CD/DVD burning application for GNOME                                          |
+| gns3-gui & gns3-server | A graphical network simulator                                                 |
 
-## 远程同步/下载工具
+## 远程同步/文件上传下载工具
 
-| 名称                         | 介绍                                       |
-| ---------------------------- | ------------------------------------------ |
-| syncthing                    | Continuous File Synchronisation            |
-| FreeFileSync                 | synchronize files and folders              |
-| qBittorrent-Enhanced-Edition | A BitTorrent client in Qt                  |
-| rclone                       | Rsync for cloud storage                    |
-| 阿里云盘小白羊版             | <https://github.com/liupan1890/aliyunpan/> |
-| rsync                        | 可以用来代替cp，linux系文件系统下表现超强  |
+| 名称                         | 介绍                                                       |
+| ---------------------------- | ---------------------------------------------------------- |
+| syncthing                    | Continuous File Synchronisation                            |
+| FreeFileSync                 | synchronize files and folders                              |
+| qBittorrent-Enhanced-Edition | A BitTorrent client in Qt                                  |
+| rclone                       | Rsync for cloud storage                                    |
+| 阿里云盘小白羊版             | <https://github.com/liupan1890/aliyunpan/>                 |
+| aria2                        | Parallelizing Multi-Protocol Utility for Downloading Files |
+| rsync                        | 也可以用来代替 cp，linux 系文件系统下表现超强              |
+| filezilla                    | A GUI FTP and SFTP Client                                  |
 
 ## 系统管理
 
-| 名称      | 介绍                                                            |
-| --------- | --------------------------------------------------------------- |
-| cockpit   | Web Console for Linux servers                                   |
-| neofetch  | CLI system information tool written in BASH                     |
-| filelight | Graphical disk usage viewer                                     |
-| baobab    | Disk Usage Analyzer for Gnome                                   |
-| btop      | beautiful top！                                                 |
-| wireshark | A Network Traffic Analyser                                      |
-| frp       | [反向代理工具，常用于内网穿透](https://github.com/fatedier/frp) |
+| 名称      | 介绍                                                                             |
+| --------- | -------------------------------------------------------------------------------- |
+| cockpit   | Web Console for Linux servers                                                    |
+| filelight | Graphical disk usage viewer                                                      |
+| baobab    | Disk Usage Analyzer for Gnome                                                    |
+| btop      | beautiful top！                                                                  |
+| wireshark | A Network Traffic Analyser                                                       |
+| frp       | [反向代理工具，常用于内网穿透](https://github.com/fatedier/frp)                  |
+| tailscale | The easiest, most secure, cross platform way to use WireGuard + oauth2 + 2FA/SSO |
+| fd        | An alternative to the "find" utility                                             |
+| fzf       | A command-line fuzzy finder                                                      |
+| ncdu      | NCurses Disk Usage                                                               |
+| tlp       | Tools to save battery power on laptops                                           |
+| dog       | A command-line DNS client                                                        |
+| neofetch  | CLI system information tool written in BASH                                      |
+| mlocate   | A utility for finding files by name                                              |
 
 ## 视频剪辑/图片编辑
 
@@ -83,13 +90,15 @@ _如果你的网络下载这几个工具有困难，可以试试最上面那几�
 | lx-music-desktop    | [免费的在线音乐播放器](https://github.com/lyswhut/lx-music-desktop/) |
 | netease-cloud-music | 网易云音乐 Linux 版                                                  |
 | dragonplayer        | Multimedia Player                                                    |
+| vlc                 | Graphical media player                                               |
+| mpv                 | Advanced general-purpose multimedia player                           |
 
 ## KDE
 
 | 名称                        | 介绍                                                      |
 | --------------------------- | --------------------------------------------------------- |
-| krfb                        | Screen sharing using the VNC/RFB protocol                 |
-| krdc                        | 远程桌面连接                                              |
+| krfb                        | KDE 桌面共享（VNC-compatible server）                     |
+| krdc                        | 远程桌面客户端                                            |
 | latte-dock                  | Replacement Dock for Plasma Desktops                      |
 | yakuake                     | Drop-down terminal emulator based on Konsole technologies |
 | kompare                     | 文件比较器                                                |
@@ -97,6 +106,7 @@ _如果你的网络下载这几个工具有困难，可以试试最上面那几�
 | kronometer                  | A stopwatch application by KDE                            |
 | kcharselect                 | KDE 字符选择器                                            |
 | kolourpaint                 | Paint Program                                             |
+| kdiff3                      | Code Comparison Utility                                   |
 
 ## 游戏
 
@@ -107,10 +117,21 @@ _如果你的网络下载这几个工具有困难，可以试试最上面那几�
 
 ## 其他
 
-| 名称     | 介绍                               |
-| -------- | ---------------------------------- |
-| kalgebra | Math Expression Solver and Plotter |
+| 名称     | 介绍                                                                                   |
+| -------- | -------------------------------------------------------------------------------------- |
+| kalgebra | Math Expression Solver and Plotter                                                     |
+| v2rayA   | [一个支持全局透明代理的 V2Ray Linux 客户端](https://github.com/v2rayA/v2rayA/releases) |
+| cheese   | Webcam Booth for GNOME                                                                 |
+| baobab   | Disk Usage Analyzer for Gnome                                                          |
 
 ## 浏览器插件
 
--
+| 名称                    | 介绍                                      |
+| ----------------------- | ----------------------------------------- |
+| SwitchyOmega            | 一个代理设置工具                          |
+| uBlock Origin           | 广告拦截                                  |
+| 翻译网页                | 让 Firefox 能像 Chrome 那样翻译网页全文   |
+| 侧边翻译                | 划词翻译                                  |
+| 暴力猴                  | 一个开源的用户脚本管理器，支持很多浏览器  |
+| OneTab                  | 节省高达 95％的内存，并减轻标签页混乱现象 |
+| Infinity 新标签页 (Pro) | 新标签页插件                              |
