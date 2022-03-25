@@ -1,6 +1,6 @@
 # software-list-on-linux
 
-My usual software on linux
+[My usual software on linux](https://waleslau.github.io/software-list-on-linux/)
 
 > 镜像了一些常用软件的镜像站
 >
