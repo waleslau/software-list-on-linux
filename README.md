@@ -24,18 +24,16 @@ _如果你的网络下载这几个工具有困难，可以试试最上面那几�
 
 ## 常用软件
 
-| 名称                   | 介绍                                                                          |
-| ---------------------- | ----------------------------------------------------------------------------- |
-| icalingua              | [QQ 第三方客户端](https://github.com/Icalingua-plus-plus/Icalingua-plus-plus) |
-| typora                 | A markdown text editor                                                        |
-| zotero                 | Tool to help collect, organize, cite, and share research source               |
-| calibre                | EBook Management Application                                                  |
-| xreader                | Document viewer for documents like PDF/PostScript                             |
-| crow-translate         | A Qt GUI for Google, Yandex and Bing translators                              |
-| Qv2ray                 | Unleash Your V2Ray                                                            |
-| JetBrains Toolbox App  | [Manage your IDEs the easy way](https://www.jetbrains.com/zh-cn/toolbox-app/) |
-| brasero                | CD/DVD burning application for GNOME                                          |
-| gns3-gui & gns3-server | A graphical network simulator                                                 |
+| 名称                   | 介绍                                                                                   |
+| ---------------------- | -------------------------------------------------------------------------------------- |
+| Icalingua-plus-plus    | [QQ 第三方客户端](https://github.com/Icalingua-plus-plus/Icalingua-plus-plus)          |
+| typora                 | A markdown text editor                                                                 |
+| zotero                 | Tool to help collect, organize, cite, and share research source                        |
+| JetBrains Toolbox App  | [Manage your IDEs the easy way](https://www.jetbrains.com/toolbox-app/)                |
+| gns3-gui & gns3-server | A graphical network simulator                                                          |
+| Antares                | [Open source SQL client made to be simple. ](https://antares-sql.app/)                 |
+| DbGate                 | [The Smartest (no)SQL Database Client ](https://dbgate.org/)                           |
+| v2rayA                 | [一个支持全局透明代理的 V2Ray Linux 客户端](https://github.com/v2rayA/v2rayA/releases) |
 
 ## 远程同步/文件上传下载工具
 
@@ -117,21 +115,26 @@ _如果你的网络下载这几个工具有困难，可以试试最上面那几�
 
 ## 其他
 
-| 名称     | 介绍                                                                                   |
-| -------- | -------------------------------------------------------------------------------------- |
-| kalgebra | Math Expression Solver and Plotter                                                     |
-| v2rayA   | [一个支持全局透明代理的 V2Ray Linux 客户端](https://github.com/v2rayA/v2rayA/releases) |
-| cheese   | Webcam Booth for GNOME                                                                 |
-| baobab   | Disk Usage Analyzer for Gnome                                                          |
+| 名称           | 介绍                                              |
+| -------------- | ------------------------------------------------- |
+| kalgebra       | Math Expression Solver and Plotter                |
+| cheese         | Webcam Booth for GNOME                            |
+| baobab         | Disk Usage Analyzer for Gnome                     |
+| xreader        | Document viewer for documents like PDF/PostScript |
+| crow-translate | A Qt GUI for Google, Yandex and Bing translators  |
+| Qv2ray         | Unleash Your V2Ray                                |
+| calibre        | EBook Management Application                      |
+| brasero        | CD/DVD burning application                        |
 
 ## 浏览器插件
 
-| 名称                    | 介绍                                      |
-| ----------------------- | ----------------------------------------- |
-| SwitchyOmega            | 一个代理设置工具                          |
-| uBlock Origin           | 广告拦截                                  |
-| 翻译网页                | 让 Firefox 能像 Chrome 那样翻译网页全文   |
-| 侧边翻译                | 划词翻译                                  |
-| 暴力猴                  | 一个开源的用户脚本管理器，支持很多浏览器  |
-| OneTab                  | 节省高达 95％的内存，并减轻标签页混乱现象 |
-| Infinity 新标签页 (Pro) | 新标签页插件                              |
+| 名称                    | 介绍                                      | 链接                                                             |
+| ----------------------- | ----------------------------------------- | ---------------------------------------------------------------- |
+| SwitchyOmega            | 一个代理设置工具                          |                                                                  |
+| uBlock Origin           | 广告拦截                                  |                                                                  |
+| 翻译网页                | 让 Firefox 能像 Chrome 那样翻译网页全文   | <https://addons.mozilla.org/firefox/addon/traduzir-paginas-web/> |
+| 侧边翻译                | 划词翻译                                  |                                                                  |
+| 暴力猴                  | 一个开源的用户脚本管理器，支持很多浏览器  |                                                                  |
+| OneTab                  | 节省高达 95％的内存，并减轻标签页混乱现象 |                                                                  |
+| Infinity 新标签页 (Pro) | 新标签页插件                              |                                                                  |
+| iTab                    | 个性化卡片式起始页                        | <https://go.itab.link>                                           |
