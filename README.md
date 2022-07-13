@@ -34,6 +34,7 @@ _如果你的网络下载这几个工具有困难，可以试试最上面那几�
 | Antares                | [Open source SQL client made to be simple. ](https://antares-sql.app/)                 |
 | DbGate                 | [The Smartest (no)SQL Database Client ](https://dbgate.org/)                           |
 | v2rayA                 | [一个支持全局透明代理的 V2Ray Linux 客户端](https://github.com/v2rayA/v2rayA/releases) |
+| AuthPass               | [Open Source Password Manager](https://github.com/authpass/authpass)                   |
 
 ## 远程同步/文件上传下载工具
 
