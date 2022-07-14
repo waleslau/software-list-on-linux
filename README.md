@@ -35,6 +35,22 @@ _如果你的网络下载这几个工具有困难，可以试试最上面那几�
 | DbGate                 | [The Smartest (no)SQL Database Client ](https://dbgate.org/)                           |
 | v2rayA                 | [一个支持全局透明代理的 V2Ray Linux 客户端](https://github.com/v2rayA/v2rayA/releases) |
 | AuthPass               | [Open Source Password Manager](https://github.com/authpass/authpass)                   |
+| Foliate                | [简洁现代的电子书查看器](https://github.com/johnfactotum/foliate)                      |
+
+## Flatpak
+
+| 名称/用途              | 包名                            |
+| ---------------------- | ------------------------------- |
+| 密码管理器             | app.authpass.AuthPass           |
+| 简洁现代的电子书查看器 | com.github.johnfactotum.Foliate |
+| 腾讯会议               | com.tencent.wemeet              |
+| WPS Office             | com.wps.Office                  |
+| 漂亮的音乐播放器       | io.bassi.Amberol                |
+| Zoom                   | us.zoom.Zoom                    |
+| PSP 模拟器             | org.ppsspp.PPSSPP               |
+| 属性信息删除器         | fr.romainvigier.MetadataCleaner |
+| 图片打码               | com.belmoussaoui.Obfuscate      |
+| PowerISO               | com.poweriso.PowerISO           |
 
 ## 远程同步/文件上传下载工具
 
