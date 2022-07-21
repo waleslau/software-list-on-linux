@@ -36,6 +36,7 @@ _如果你的网络下载这几个工具有困难，可以试试最上面那几�
 | v2rayA                 | [一个支持全局透明代理的 V2Ray Linux 客户端](https://github.com/v2rayA/v2rayA/releases) |
 | AuthPass               | [Open Source Password Manager](https://github.com/authpass/authpass)                   |
 | Foliate                | [简洁现代的电子书查看器](https://github.com/johnfactotum/foliate)                      |
+| RustDesk               | [远程桌面软件,可自建注册/中继服务器](https://github.com/rustdesk/rustdesk)             |
 
 ## Flatpak
 
