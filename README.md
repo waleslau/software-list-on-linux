@@ -150,7 +150,7 @@ _如果你的网络下载这几个工具有困难，可以试试最上面那几�
 | ----------------------- | ----------------------------------------- | ---------------------------------------------------------------- |
 | SwitchyOmega            | 一个代理设置工具                          |                                                                  |
 | uBlock Origin           | 广告拦截                                  |                                                                  |
-| 翻译网页                | 让 Firefox 能像 Chrome 那样翻译网页全文   | <https://addons.mozilla.org/firefox/addon/traduzir-paginas-web/> |
+| TWP                     | 让 Firefox 能像 Chrome 那样翻译网页全文   | <https://addons.mozilla.org/firefox/addon/traduzir-paginas-web/> |
 | 侧边翻译                | 划词翻译                                  |                                                                  |
 | 暴力猴                  | 一个开源的用户脚本管理器，支持很多浏览器  |                                                                  |
 | OneTab                  | 节省高达 95％的内存，并减轻标签页混乱现象 |                                                                  |
